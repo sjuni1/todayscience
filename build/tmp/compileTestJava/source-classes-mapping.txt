@@ -1,0 +1,4 @@
+org/pdc/TodayScience/TodayScienceApplicationTests.java
+ org.pdc.TodayScience.TodayScienceApplicationTests
+org/pdc/TodayScience/test.java
+ org.pdc.TodayScience.test
