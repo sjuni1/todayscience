@@ -27,6 +27,6 @@ export default {
   color: #2c3e50;
 }
 #content {
-  margin-top: 2rem;
+  border-top: 2rem;
 }
 </style>
