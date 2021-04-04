@@ -5,31 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7d178fa-dfb1-43e0-ba0b-3dc2295ae1e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/app.fb0c6e1c.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/logo.82b9c7a5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/app.44b2713b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/app.44b2713b.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-vendors.d8b488bd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/chunk-vendors.d8b488bd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-frontend/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-frontend/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-frontend/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-frontend/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-frontend/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-frontend/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-frontend/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-frontend/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue-frontend/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b853877f-9616-40a4-b38d-0bffa90af90c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b853877f-9616-40a4-b38d-0bffa90af90c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +125,7 @@
       <updated>1617453244751</updated>
       <workItem from="1617453245870" duration="30000" />
       <workItem from="1617453277862" duration="2425000" />
-      <workItem from="1617455754818" duration="1590000" />
+      <workItem from="1617455754818" duration="4545000" />
     </task>
     <servers />
   </component>
