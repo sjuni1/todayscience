@@ -6,3 +6,5 @@ org/pdc/TodayScience/Database/DatabaseConfiguration.java
  org.pdc.TodayScience.Database.DatabaseConfiguration
 org/pdc/TodayScience/Controller/HomeController.java
  org.pdc.TodayScience.Controller.HomeController
+org/pdc/TodayScience/Controller/RootController.java
+ org.pdc.TodayScience.Controller.RootController
