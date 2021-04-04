@@ -1,8 +1,8 @@
 org/pdc/TodayScience/TodayScienceApplication.java
  org.pdc.TodayScience.TodayScienceApplication
-org/pdc/TodayScience/Controller/HomeController.java
- org.pdc.TodayScience.Controller.HomeController
-org/pdc/TodayScience/Database/DatabaseConfiguration.java
- org.pdc.TodayScience.Database.DatabaseConfiguration
 org/pdc/TodayScience/Database/MariaDBConnect.java
  org.pdc.TodayScience.Database.MariaDBConnect
+org/pdc/TodayScience/Database/DatabaseConfiguration.java
+ org.pdc.TodayScience.Database.DatabaseConfiguration
+org/pdc/TodayScience/Controller/HomeController.java
+ org.pdc.TodayScience.Controller.HomeController
