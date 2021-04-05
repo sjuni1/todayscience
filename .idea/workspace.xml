@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7d178fa-dfb1-43e0-ba0b-3dc2295ae1e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonCrawler/python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/resources/main/static/css/app.335c96da.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/resources/main/static/js/app.c16525d0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/resources/main/static/js/app.c16525d0.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/app.335c96da.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/app.c16525d0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/app.c16525d0.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/TodayScience-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/css/app.3b72bb5a.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/js/app.443e99e9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/js/app.443e99e9.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/app.3b72bb5a.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/app.443e99e9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/app.443e99e9.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b7d178fa-dfb1-43e0-ba0b-3dc2295ae1e6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +79,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.18045977" />
@@ -214,7 +192,7 @@
       <workItem from="1617453245870" duration="30000" />
       <workItem from="1617453277862" duration="2425000" />
       <workItem from="1617455754818" duration="10153000" />
-      <workItem from="1617532273145" duration="3310000" />
+      <workItem from="1617532273145" duration="3909000" />
     </task>
     <servers />
   </component>
